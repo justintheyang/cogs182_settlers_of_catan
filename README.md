@@ -6,3 +6,4 @@ To run this code, you only need to run `7_hex_Catan.ipnyb` - the 7 hexagon versi
 - there is a single line which breaks to code after the Sarsa(0) algorithm runs, as to not lose progress through variable redeclarations in the semi-gradient Sarsa(0) algorithm.
 
 The other files are images and gifs which illustrate the implementation of the project and the actual game board in selected episodes.
+In the future, I hope to expend this project to implement the full Catan game using only function approximation methods.
